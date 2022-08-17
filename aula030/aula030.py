@@ -29,7 +29,7 @@ def calculaPerc (numero,perc):
     diferenca = numero * perc
     print(numero + diferenca)
 
-calculaPerc(100,10)
+calculaPerc(200,36)
 
 #4
 def FizzBuzz(numero):
